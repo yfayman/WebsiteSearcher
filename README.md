@@ -1,5 +1,4 @@
 ## How much time did you spend?
-
 This took me around 5 hours. I've used Akka before, but only with Scala. Switching to Java was not a massive adjustment
 but required me to check the documentation often.
 
