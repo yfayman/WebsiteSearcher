@@ -3,9 +3,9 @@
 This took me around 5 hours. I've used Akka before, but only with Scala. Switching to Java was not a massive adjustment
 but required me to check the documentation often.
 
-## What was the most difficult thing for you?
+## What was the most cumbersome thing for you?
 There are many different approaches one can take to solve this problem. I wanted to write something that would scale
-reasonably well. Taking the pros/cons of each solution into consideration and picking the best one was the most difficult part. 
+reasonably well. Taking the pros/cons of each solution into consideration and picking the best one was the most cumbersome part. 
 
 
 ## What technical debt would you pay if you had one more iteration?
